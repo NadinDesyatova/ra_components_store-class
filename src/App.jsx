@@ -1,6 +1,6 @@
 import './App.css'
-import Item from './components/shop-item-func/item';
-import ShopItemClass from './components/shop-item-func/ShopItemClass';
+import Item from './components/shop-item-class/item';
+import ShopItemClass from './components/shop-item-class/ShopItemClass';
 
 
 const item = new Item(
